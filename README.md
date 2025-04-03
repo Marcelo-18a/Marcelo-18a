@@ -5,8 +5,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcelo-18a&show_icons=true&count_private=true&hide_border=true&title_color=bd4296&icon_color=bd4296&text_color=c9d1d9&bg_color=0d1117" alt="Marcelo Augusto github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-18a&layout=compact&hide_border=true&title_color=bd4296&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcelo-18a&show_icons=true&count_private=true&hide_border=true&title_color=bd4296&icon_color=bd4296&text_color=c9d1d9&bg_color=00000000" alt="Marcelo Augusto github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-18a&layout=compact&hide_border=true&title_color=bd4296&text_color=ffffff&bg_color=00000000" />
 </div>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcelo-18a&bg_color=00000000&color=C9D1D9&line=8B949E&point=C9D1D9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
