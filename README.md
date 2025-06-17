@@ -12,7 +12,7 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcelo-18a&bg_color=00000000&color=05f072&line=bd4296&point=05f072&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-<a href="https://www.instagram.com/marcelotedio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/sla_marcello/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
 ### Main skills:
