@@ -62,10 +62,4 @@
 </div>
 
 ---
-
-<div align="center">
-  <p align="center" style="color:#C9C9C9;"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/Marcelo-18a/count.svg" /></p> 
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=120&section=footer"/>
