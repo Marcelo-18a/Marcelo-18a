@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=header"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7D09D6&size=35&center=true&vCenter=true&width=1000&lines=🕷️+WELCOME+TO+THE+DARK+ZONE;I'm+Marcelo+Augusto;19+years+old;System+Development+Student;⚡+Embrace+the+Mystic" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7D09D6&size=35&center=true&vCenter=true&width=1000&lines=🕷️+I'm+Marcelo+Augusto;19+years+old;System+Development+Student alt="typing"/>
 </h1>
 
 ---
