@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=header"/>
-
 <div align="center" style="margin-top: 40px;">
   <img src="https://imgs.search.brave.com/vfCBgjV--5pNINTzotTGZ_Pmx7yG1ZhdoRTKsD4R_Xs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbml5/dWtpLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMi8wMS9h/bml5dWtpLWJsYWNr/LWFuZC13aGl0ZS1h/bmltZS0yMS5naWY.gif" 
        alt="Anime Style GIF" 
