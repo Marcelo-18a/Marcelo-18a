@@ -1,7 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=header"/>
 
 <div align="center" style="margin-top: 40px;">
-  <img src="https://imgs.search.brave.com/vfCBgjV--5pNINTzotTGZ_Pmx7yG1ZhdoRTKsD4R_Xs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbml5/dWtpLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMi8wMS9h/bml5dWtpLWJsYWNr/LWFuZC13aGl0ZS1h/bmltZS0yMS5naWY.gif" alt="Anime Style GIF" width="500px" style="border-radius: 20px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);" />
+  <img src="https://imgs.search.brave.com/vfCBgjV--5pNINTzotTGZ_Pmx7yG1ZhdoRTKsD4R_Xs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbml5/dWtpLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMi8wMS9h/bml5dWtpLWJsYWNr/LWFuZC13aGl0ZS1h/bmltZS0yMS5naWY.gif" 
+       alt="Anime Style GIF" 
+       width="100%" 
+       height="400px" 
+       style="border-radius: 20px; object-fit: cover; box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);" />
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=C9C9C9&size=20&center=true&vCenter=true&width=1000&lines=I'm+Marcelo+Augusto;19+years+old;System+Development+Student)](https://git.io/typing-svg)
 </div>
@@ -59,4 +63,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <p align="center" style="color:#C9C9C9;"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/Marcelo-18a/count.svg" /></p> 
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=120&section=footer"/>
