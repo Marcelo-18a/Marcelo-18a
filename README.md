@@ -17,39 +17,26 @@
 ---
 
 # 🕷️ Dark Skills
-⚔ **Design (Figma)**  
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=7d09d6)&nbsp;
-
-🌐 **Front-end Warrior**  
-![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=05f072)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=7d09d6)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=7d09d6)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=05f072)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=7d09d6)
 
 ---
 
-# 📖 Currently in the Dark Arts
-⚡ **Node.js (Summoning in progress)**  
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=05f072)&nbsp;
-
-👾 **JavaScript**  
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=7d09d6)&nbsp;
-
-🕸️ **Bootstrap**  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=05f072)&nbsp;
+# 📖 Dark Arts in Progress
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=05f072)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=7d09d6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=05f072)
 
 ---
 
 # 🛠️ Dark Tools
-💻 IDEs  
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=7d09d6)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=05f072)&nbsp;
-
-🔧 Version Control  
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=7d09d6)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=05f072)&nbsp;
-
-🪟 OS & Productivity  
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=7d09d6)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-000000?style=for-the-badge&logo=microsoftoffice&logoColor=05f072)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=7d09d6)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=05f072)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=7d09d6)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=05f072)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=7d09d6)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-000000?style=for-the-badge&logo=microsoftoffice&logoColor=05f072)
 
 ---
 
