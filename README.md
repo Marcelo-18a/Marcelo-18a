@@ -6,7 +6,7 @@
        height="400px" 
        style="border-radius: 20px; object-fit: cover; box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=C9C9C9&size=20&center=true&vCenter=true&width=1000&lines=I'm+Marcelo+Augusto;19+years+old;System+Development+Student)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=C9C9C9&size=20&center=true&vCenter=true&width=1000&lines=I'm+Marcelo+Augusto;20+years+old;System+Development+Student)](https://git.io/typing-svg)
 </div>
 
 ---
