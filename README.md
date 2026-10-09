@@ -17,7 +17,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-18a&layout=compact&hide_border=true&title_color=7D7D7D&text_color=C9C9C9&bg_color=0D0D0D" alt="Top Languages"/>
 </div>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcelo-18a&bg_color=1A1A1A&color=C9C9C9&line=7D7D7D&point=E94560&area=true&hide_border=true)](https://github.com/Marcelo-18a)
 
 ---
 
