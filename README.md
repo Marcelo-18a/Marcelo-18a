@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=header"/>
 <div align="center" style="margin-top: 40px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHp6Z3FvZHRjYWFpOHRid256d3EzbXRpeXVpY2E4dzU1cTc1bWFpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sLlA3D82b344w/giphy.gif" 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhiYThjdWs4M3VxY29hOXY1ZHcxMHp0MHZzY3d4djlqaG1xZDVjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77XGWy4IRCeRbWg0/giphy.gif" 
        alt="Anime Style GIF" 
        width="100%" 
        height="400px" 
