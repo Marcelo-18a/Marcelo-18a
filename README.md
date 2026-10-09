@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=header"/>
 <div align="center" style="margin-top: 40px;">
-  <img src="https://imgs.search.brave.com/vfCBgjV--5pNINTzotTGZ_Pmx7yG1ZhdoRTKsD4R_Xs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbml5/dWtpLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMi8wMS9h/bml5dWtpLWJsYWNr/LWFuZC13aGl0ZS1h/bmltZS0yMS5naWY.gif" 
+  <img src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif" 
        alt="Anime Style GIF" 
        width="100%" 
        height="400px" 
@@ -16,7 +16,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcelo-18a&show_icons=true&count_private=true&hide_border=true&title_color=7D7D7D&icon_color=C9C9C9&text_color=C9C9C9&bg_color=0D0D0D" alt="GitHub Stats"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-18a&layout=compact&hide_border=true&title_color=7D7D7D&text_color=C9C9C9&bg_color=0D0D0D" alt="Top Languages"/>
 </div>
-
 
 ---
 
@@ -61,4 +60,5 @@
 </div>
 
 ---
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=120&section=footer"/>
